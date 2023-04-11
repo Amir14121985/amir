@@ -6,11 +6,13 @@ public class Main {
         mainMethodSh0winfo();
     }
     private static void mainMethodMessageAble() {
-        System.out.println("Hello able QA course\n");
+        System.out.println("Hello able QA course people\n");
     }
 
     private static void mainMethodSh0winfo() {
-        System.out.println("Lets learn Git");
+        System.out.println("new chahges");
     }
 }
+
+
 
